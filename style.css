@@ -57,3 +57,12 @@ body {
     padding: 0 1.5rem;
     margin-bottom: 2rem;
 }
+
+/* Responsive */
+/* 375px / 23.4375rem */
+@media (min-width: 23.4375rem) {
+    .card {
+        max-width: 330px;
+        margin: auto;
+    }
+}
