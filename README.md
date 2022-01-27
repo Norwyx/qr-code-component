@@ -2,7 +2,7 @@
 
 A responsive QR code component. This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-- [Page]() - Final result of the project
+- [Page](https://norwyx.github.io/qr-code-component/) - Final result of the project
 
 ![QR card component](./images/final-results.png)
 
