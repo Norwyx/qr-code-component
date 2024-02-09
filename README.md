@@ -4,7 +4,7 @@ A responsive QR code component. This page was built as a front-end project of [F
 
 - [Page](https://norwyx.github.io/qr-code-component/) - Final result of the project
 
-![QR card component](./images/final-results.png)
+![QR card component](./assets/images/final-results.png)
 
 
 
